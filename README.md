@@ -1,4 +1,5 @@
 # DEMO of Skaberen code generator extension for Visual Studio Code
+<https://github.com/SkaberenWorm/Skaberen-code-generator-vscode>
 
 ## Controler
 
